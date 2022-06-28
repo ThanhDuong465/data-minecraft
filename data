@@ -1,0 +1,37 @@
+[
+    {
+        "ID": 0,
+        "name": "Boy 1",
+        "imgAnime": "https://lh3.googleusercontent.com/--HHFVR4QkTE/YbyGiklcm7I/AAAAAAAA2e8/q5tbb-FB9bs5cdytxpivLp3pWj1AuRHrQCNcBGAsYHQ/s0/boy-1.png",
+        "colorBg": "#F8CA3E",
+        "movie": "Boy"
+    },
+    {
+        "ID": 1,
+        "name": "Boy 2",
+        "imgAnime": "https://lh3.googleusercontent.com/-BrCbdZUqVi0/YbFvE6sIPvI/AAAAAAAA2CQ/145Yk71SYAUk2LpVME6ZvA2DRb_9YQ2egCNcBGAsYHQ/s0/boy-2.png",
+        "colorBg": "#9FC177",
+        "movie": "Boy"
+    },
+    {
+        "ID": 2,
+        "name": "Boy 3",
+        "imgAnime": "https://lh3.googleusercontent.com/-ESzEN4e9KCI/Yad386gx7SI/AAAAAAAA1yk/ty7r8jI_DF0-EAE6FeOYghqk1I55OyAmACNcBGAsYHQ/s0/boy-3.png",
+        "colorBg": "#3F4A8A",
+        "movie": "Boy"
+    },
+    {
+        "ID": 3,
+        "name": "Boy 4",
+        "imgAnime": "https://lh3.googleusercontent.com/-UinqgAaxi5s/YXJ9PzdF8NI/AAAAAAAAyhY/he8Y4PAMuQUZLE-185pq8ImagmHx1gYzACNcBGAsYHQ/s0/boy-4.png",
+        "colorBg": "#E2BC5F",
+        "movie": "Boy"
+    },
+    {
+        "ID": 4,
+        "name": "Boy 5",
+        "imgAnime": "https://lh3.googleusercontent.com/-8yIoi7BZwnY/YXJ90fZ4_yI/AAAAAAAAyhg/xPpK-XU9BOwsHsUr-yQAKLlHdgSfvCicQCNcBGAsYHQ/s0/boy-5.png",
+        "colorBg": "#345763",
+        "movie": "Boy"
+    }
+]
