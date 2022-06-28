@@ -9,14 +9,14 @@
     {
         "ID": 1,
         "name": "skin 2",
-        "imgAnime": "https://sv3.anh365.com/images/2022/06/28/OELTKOSZIwq0Hk2orJx0.pngg",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/28/OELTKOSZIwq0Hk2orJx0.png",
         "colorBg": "#9FC177",
         "movie": "Boy"
     },
     {
         "ID": 2,
-        "name": "Boy 3",
-        "imgAnime": "https://lh3.googleusercontent.com/-ESzEN4e9KCI/Yad386gx7SI/AAAAAAAA1yk/ty7r8jI_DF0-EAE6FeOYghqk1I55OyAmACNcBGAsYHQ/s0/boy-3.png",
+        "name": "skin 3",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/28/rTZ75SollefpkYBXRrFF.png",
         "colorBg": "#3F4A8A",
         "movie": "Boy"
     },
