@@ -3,35 +3,238 @@
         "ID": 0,
         "name": "skin 1",
         "imgAnime": "https://sv3.anh365.com/images/2022/06/28/rTZ75SollefpkYBXRrFF.png",
-        "colorBg": "#F8CA3E",
+        "colorBg": "#00FF00",
         "movie": "Boy"
     },
     {
         "ID": 1,
-        "name": "skin 2",
+        "name": "Boy 2",
         "imgAnime": "https://sv3.anh365.com/images/2022/06/28/OELTKOSZIwq0Hk2orJx0.png",
-        "colorBg": "#9FC177",
+        "colorBg": "#00FF00",
         "movie": "Boy"
     },
     {
         "ID": 2,
-        "name": "skin 3",
+        "name": "Boy 2",
         "imgAnime": "https://sv3.anh365.com/images/2022/06/28/rTZ75SollefpkYBXRrFF.png",
-        "colorBg": "#3F4A8A",
+        "colorBg": "#00FF00",
         "movie": "Boy"
     },
     {
         "ID": 3,
-        "name": "Boy 4",
-        "imgAnime": "https://lh3.googleusercontent.com/-UinqgAaxi5s/YXJ9PzdF8NI/AAAAAAAAyhY/he8Y4PAMuQUZLE-185pq8ImagmHx1gYzACNcBGAsYHQ/s0/boy-4.png",
-        "colorBg": "#E2BC5F",
+        "name": "Boy 3",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/kindpng_1774019.png",
+        "colorBg": "#00FF00",
         "movie": "Boy"
     },
     {
         "ID": 4,
+        "name": "Boy 4",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-4456DD1.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 5,
         "name": "Boy 5",
-        "imgAnime": "https://lh3.googleusercontent.com/-8yIoi7BZwnY/YXJ90fZ4_yI/AAAAAAAAyhg/xPpK-XU9BOwsHsUr-yQAKLlHdgSfvCicQCNcBGAsYHQ/s0/boy-5.png",
-        "colorBg": "#345763",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-F8022CD.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 6,
+        "name": "Boy 6",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-4B08246.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 7,
+        "name": "Boy 7",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-8308281.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 8,
+        "name": "Boy 8",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-AE2BBDD.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 9,
+        "name": "Boy 9",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-E6C04D3.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 10,
+        "name": "Boy 10",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-952AA0E.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 11,
+        "name": "Boy 11",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-DF6B4BC.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 12,
+        "name": "Boy 12",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-10182C3.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 13,
+        "name": "Boy 13",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-86C8359.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 14,
+        "name": "Boy 14",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-F367146.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 15,
+        "name": "Boy 15",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-B145DE2.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 16,
+        "name": "Boy 16",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-22CD8F5.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 17,
+        "name": "Boy 17",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-480EE2D.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 18,
+        "name": "Boy 18",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-480EE2D.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 19,
+        "name": "Boy 19",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-C6BDB79.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 20,
+        "name": "Boy 20",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-C1AF037.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 21,
+        "name": "Boy 21",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-CCC46D9.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 22,
+        "name": "Boy 22",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-7F14F2D.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 23,
+        "name": "Boy 23",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-774891A.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 24,
+        "name": "Boy 24",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-ABCA908.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 25,
+        "name": "Boy 25",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-40DC4EE.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 26,
+        "name": "Boy 26",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-EB4A9EA.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 27,
+        "name": "Boy 27",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-8525C5E.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 28,
+        "name": "Boy 28",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-2E389BD.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 29,
+        "name": "Boy 29",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-721AA12.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 30,
+        "name": "Boy 30",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-C715335.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 32,
+        "name": "Boy 32",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-7F04F6E.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 33,
+        "name": "Boy 33",
+        "imgAnime": "https://sv3.anh365.com/images/2022/06/29/D-an-mi-FA27C86.png",
+        "colorBg": "#00FF00",
+        "movie": "Boy"
+    },
+    {
+        "ID": 34,
+        "name": "Boy 34",
+        "imgAnime": "https://i.imgur.com/r3a12WG.png",
+        "colorBg": "#00FF00",
         "movie": "Boy"
     }
 ]
